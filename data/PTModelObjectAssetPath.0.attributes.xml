@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>3185</string>
+                <key>className</key>
+                <string>PTModelObjectAssetPath</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Path</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{507.331,413.746}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Play Mode</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kPlayModePingPong</string>
+                </dict>
+                <key>Affected Asset</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kAssets</string>
+                </dict>
+                <key>zDepth</key>
+                <string>501</string>
+                <key>points</key>
+                <array>
+                    <string>{-1.642,-137.915}</string>
+                    <string>{197.022,-132.990}</string>
+                    <string>{197.022,-50.897}</string>
+                    <string>{195.380,11.493}</string>
+                    <string>{197.022,57.465}</string>
+                    <string>{73.883,60.748}</string>
+                </array>
+            </dict>
+        </array>
+    </dict>
+</plist>
